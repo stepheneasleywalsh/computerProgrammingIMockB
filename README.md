@@ -1,2 +1,2 @@
 # Mock B
-## Medium
+## Practice Exam for Computer Programming I
