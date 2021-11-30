@@ -36,7 +36,7 @@ while True:
     C /= GCD
 
     # Lead with positive only
-    if A < 0:
+    if B < 0:
         A *= -1
         B *= -1
         C *= -1
