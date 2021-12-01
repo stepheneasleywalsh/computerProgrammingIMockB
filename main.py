@@ -1,7 +1,9 @@
 # Import Math, needed for GCD calculation
 import math
 
+# Loop until quit
 while True:
+    # Loop until valid input
     while True:
         # Ask for A and B
         print(" # # # Tell me where your line crosses the X and Y axis. Values must be integers. # # #")
